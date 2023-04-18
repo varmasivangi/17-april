@@ -1,0 +1,113 @@
+{"cloths": [
+    {
+      "name": "Louis Vuitton",
+      "src": "https://sslimages.shoppersstop.com/sys-master/images/hae/h53/26465727414302/S21182FSAGD2GN_GREEN_alt1.jpg_2000Wx3000H",
+      "id": "men",
+      "price":"500",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+  
+   
+    },
+    {
+      "name": "Louis Vuitton",
+      "src": "https://imagescdn.planetfashion.in/img/app/product/6/654358-6617157.jpg?auto=format",
+      "id": "men",
+      "price":"500",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+   
+    },
+    {
+      "name": "Louis Vuitton",
+      "src": "https://assetscdn1.paytm.com/images/catalog/product/A/AP/APPPETER-ENGLANADIT50996AF0E9514/1562790387722_1..jpg?imwidth=282&impolicy=hq",
+      "id": "men",
+      "price":"500",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+   
+    },
+    {
+      "name": "raymands",
+      "src": "https://sslimages.shoppersstop.com/sys-master/images/hae/h53/26465727414302/S21182FSAGD2GN_GREEN_alt1.jpg_2000Wx3000H",
+      "id": "men",
+      "price":"500",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+   
+    },
+    {
+      "name": "raymands",
+      "src": "https://www.shahifits.in/wp-content/uploads/2022/04/Party-Wear-Lehenga-Designs.jpg",
+      "id": "wemen",
+      "price":"490",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+     
+    },
+    {
+      "name": "raymands",
+      "src": "https://www.ethnicplus.in/media/catalog/product/cache/c8dd8ab41cc505e943026004bfd0a7b6/4/2/4205_1_.jpg",
+      "id": "wemen",
+      "price":"3000",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+     
+    },
+  
+    {
+      "name": "raymands",
+      "src": "https://img.faballey.com/images/Product/ILL00323Z/d3.jpg",
+      "id": "wemen",
+      "price":"500",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+     
+    },
+    {
+      "name": "raymands",
+      "src": "https://www.wholesaletextile.in/product-img/Ganga-Noura-Catalog-Designer-P-1645255110.jpg",
+      "id": "wemen",
+      "price":"500",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+     
+    },
+    {
+      "name": "raymands",
+      "src": "https://www.shahifits.in/wp-content/uploads/2022/04/Party-Wear-Lehenga-Designs.jpg",
+      "id": "wemen",
+      "price":"500",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+     
+    },
+    {
+      "name": "raymands",
+      "src": "https://www.shahifits.in/wp-content/uploads/2022/04/Party-Wear-Lehenga-Designs.jpg",
+      "id": "wemen",
+      "price":"500",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+     
+    },
+  
+    {
+      "name": "Louis Vuitton",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8GwBgKs12JhIkgEBfKtr93QzCbwJMU0oXPGHzDlr__JIkn3DcAEMQV3__vn7OLRz9y8&usqp=CAU",
+      "id": "men",
+      "price":"500",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+      
+    },
+    {
+      "name": "teddy",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8GwBgKs12JhIkgEBfKtr93QzCbwJMU0oXPGHzDlr__JIkn3DcAEMQV3__vn7OLRz9y8&usqp=CAU",
+      "id": "gift",
+      "price":"500",
+      "discount":"(50% Off)",
+      "original":"Rs.1000"
+      
+    }
+  ]}
