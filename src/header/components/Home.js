@@ -29,7 +29,7 @@ export default function Home() {
     )))
   }
   return (
-    <div className='row'>
+    <div className='row p-0 m-0'>
 
       {
         list.map((e) => (

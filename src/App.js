@@ -13,6 +13,7 @@ import app from './firebaseconfig'
 import Cart from './header/components/Cart'
 import Signup from './header/Signup';
 import Adddata from './header/components/Adddata'
+import Navigationbar from'./header/Nav'
 import { db } from './firebaseconfig';
 
 const auth = getAuth()
@@ -35,15 +36,14 @@ export default class App extends Component {
   }
   render() {
     return (
-      <div>
         <div className="App">
           {
             this.state.user ? (
               <BrowserRouter>
-                <div className='row head'>
+                <div>
                   <Header />
                 </div>
-                <div className='row homepage'>
+              
                   <Routes>
                     <Route path='/' element={<Home />} />
                     <Route path='/cloths' element={<Clothing />} />
@@ -53,11 +53,10 @@ export default class App extends Component {
                     <Route path='/signup' element={<Signup />} />
                     <Route path='/adddata' element={<Adddata />} />
                   </Routes>
-                </div>
+                
               </BrowserRouter>) : <Login />}
 
         </div>
-      </div>
     )
   }
 }

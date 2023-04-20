@@ -1,8 +1,17 @@
 .logo{
-  width: 60%;
+  width: 6%;
   border-radius: 50%;
   border: 1px solid white;
-  
+ 
+}
+*{
+  margin: 0%;
+  padding: 0%;
+
+}
+.abcd{
+ 
+  width: 60%;
 }
 .nav{
   background-color: rgb(84, 85, 86);
@@ -10,7 +19,7 @@
 .nav a{
   text-decoration: none;
   color: white;
-  margin: 2%;
+  margin-right: 3%;
 }
 
 .nav input{
